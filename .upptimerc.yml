@@ -7,8 +7,8 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Jenga Availability
+    url: https://api-v2.honeycoin.app/v3/uptime/jg/balance
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
