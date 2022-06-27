@@ -9,6 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Jenga Availability
     url: https://api-v2.honeycoin.app/v3/uptime/jg/balance
+    headers:
+    - "Content-Type: application/json"
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
