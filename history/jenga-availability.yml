@@ -1,7 +1,7 @@
 url: https://api-v2.honeycoin.app/v3/uptime/jg/balance
-status: down
-code: 503
-responseTime: 112
-lastUpdated: 2022-07-14T14:59:54.133Z
+status: up
+code: 200
+responseTime: 7020
+lastUpdated: 2022-07-14T15:45:06.948Z
 startTime: Mon Jun 27 2022 14:51:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
