@@ -40,7 +40,7 @@
     "url": "https://api-v2.honeycoin.app/v3/uptime/jg/balance",
     "icon": "https://favicons.githubusercontent.com/api-v2.honeycoin.app",
     "slug": "jenga-availability",
-    "status": "up",
+    "status": "down",
     "uptime": "92.95%",
     "uptimeDay": "47.70%",
     "uptimeWeek": "91.63%",
