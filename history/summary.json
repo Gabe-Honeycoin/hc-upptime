@@ -40,14 +40,14 @@
     "url": "https://api-v2.honeycoin.app/v3/uptime/jg/balance",
     "icon": "https://favicons.githubusercontent.com/api-v2.honeycoin.app",
     "slug": "jenga-availability",
-    "status": "up",
-    "uptime": "91.88%",
-    "uptimeDay": "74.57%",
-    "uptimeWeek": "76.87%",
-    "uptimeMonth": "86.05%",
-    "uptimeYear": "91.88%",
+    "status": "down",
+    "uptime": "91.90%",
+    "uptimeDay": "75.86%",
+    "uptimeWeek": "76.86%",
+    "uptimeMonth": "86.09%",
+    "uptimeYear": "91.90%",
     "time": 9772,
-    "timeDay": 9809,
+    "timeDay": 11629,
     "timeWeek": 10856,
     "timeMonth": 11145,
     "timeYear": 9772,
@@ -70,8 +70,7 @@
       "2022-07-30": 173,
       "2022-07-29": 51,
       "2022-07-28": 32,
-      "2022-07-26": 25,
-      "2022-07-25": 17
+      "2022-07-26": 25
     }
   },
   {
